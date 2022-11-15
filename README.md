@@ -8,4 +8,5 @@
   - Matplotlib
   - scikit-learn
 4. Conduct exploratory data analysis using Python libraries
-5. Perform machine learning modelling using Python libraries
+5. Perform machine learning modelling using Python library
+6.learning advanced machine learning algorithms 
